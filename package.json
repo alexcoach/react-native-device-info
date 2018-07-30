@@ -1,5 +1,5 @@
 {
-  "name": "react-native-device-info",
+  "name": "react-native-device-info-fix",
   "version": "0.22.2",
   "description": "Get device information using react-native",
   "main": "deviceinfo.js",
